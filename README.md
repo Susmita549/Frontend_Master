@@ -1,4 +1,5 @@
-Clone of Frontend Master: Website link:-https://frontendmasters.com In the construct week of unit-3, we tried to make clone of frontend Master Website.we tried to built as much as functionalities and pages as the original website.
+Clone of Frontend Master:
+Website link:-https://frontendmasters.com In the construct week of unit-3, we tried to make clone of frontend Master Website.we tried to built as much as functionalities and pages as the original website.
 
 Description:- We had to clone the frontend Master website. This website is all about learning front-end courses. It provides a lot of courses courses through which one can become a master in front-end. We have made all the pages like landing page,signup page, login page, etc with different functionalities and simple and attractive UI.
 
