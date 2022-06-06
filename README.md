@@ -9,7 +9,7 @@ Getting Started:- We started making our project with an group meeting. We have 6
 
 Dependencies:- ● One person going through project should have sound knowledge of HTML,CSS and javascript ● An OS is perfect to run the project.(ex. Windows 10)
 
-Executing program:- ● First, you need to open zarahome.html page ● Then, explore by going through different pages like signup, login, men, women, kids, shoes, etc.
+Executing program:- ● First, you need to open frontendmaster.html page ● Then, explore by going through different pages like signup, login,payment,different frontend courses etc.
 
 Functionalities of the Website:- ● Landing page ● Signup page ● Login page ● Dynamic searching ● Payment option
 
