@@ -15,6 +15,15 @@ Functionalities of the Website:- ● Landing page ● Signup page ● Login page
 
 Contributors: ● Aniket Solanki ● Muskan Shaw ● Sreenath Panchal ● Susmita Mandal ● Swapnil ● Aman
 
+Some glimpse of our project.
+
+![image](https://user-images.githubusercontent.com/99960489/190474795-4dac5e3d-fe36-40a4-83cc-4c6f3b7655dd.png)
+![image](https://user-images.githubusercontent.com/99960489/190474947-ab4b3031-ecd7-45f5-9c39-a0e8c9f04904.png)
+![image](https://user-images.githubusercontent.com/99960489/190475032-9a1f02da-7e4a-4e28-94ed-1ed0389617b6.png)
+![image](https://user-images.githubusercontent.com/99960489/190475076-1a92a606-b995-4f73-af1f-b516ef2e7d65.png)
+![image](https://user-images.githubusercontent.com/99960489/190475137-e5d1b668-e3bd-4344-ab91-7d8be8a7e1b5.png)
+
+
 
 
 
